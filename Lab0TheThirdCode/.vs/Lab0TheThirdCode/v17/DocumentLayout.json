@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Lab-0\\Lab0TheThirdCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73640E4D-3172-42CC-A7BF-09EEA6D45116}|Lab0TheThirdCode\\Lab0TheThirdCode.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Lab-0\\Lab0TheThirdCode\\Lab0TheThirdCode\\Lab0TheThirdCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73640E4D-3172-42CC-A7BF-09EEA6D45116}|Lab0TheThirdCode\\Lab0TheThirdCode.vcxproj|solutionrelative:Lab0TheThirdCode\\Lab0TheThirdCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab0TheThirdCode.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Lab-0\\Lab0TheThirdCode\\Lab0TheThirdCode\\Lab0TheThirdCode.cpp",
+              "RelativeDocumentMoniker": "Lab0TheThirdCode\\Lab0TheThirdCode.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Lab-0\\Lab0TheThirdCode\\Lab0TheThirdCode\\Lab0TheThirdCode.cpp",
+              "RelativeToolTip": "Lab0TheThirdCode\\Lab0TheThirdCode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T19:56:35.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
