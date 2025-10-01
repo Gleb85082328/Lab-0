@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-1\\CodeForLab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0668C51F-C131-4856-8C44-0F48E6B0BB8F}|CodeForLab1\\CodeForLab1.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-1\\CodeForLab1\\CodeForLab1\\CodeForLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0668C51F-C131-4856-8C44-0F48E6B0BB8F}|CodeForLab1\\CodeForLab1.vcxproj|solutionrelative:CodeForLab1\\CodeForLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{65CAB811-A10E-4910-AC2B-DEBD362E4937}|CodeForLab1\\CodeForLab1.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-1\\CodeForLab1\\CodeForLab1\\CodeForLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65CAB811-A10E-4910-AC2B-DEBD362E4937}|CodeForLab1\\CodeForLab1.vcxproj|solutionrelative:CodeForLab1\\CodeForLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "CodeForLab1\\CodeForLab1.cpp",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-1\\CodeForLab1\\CodeForLab1\\CodeForLab1.cpp",
               "RelativeToolTip": "CodeForLab1\\CodeForLab1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T21:11:09.62Z",
+              "WhenOpened": "2025-09-23T19:37:16.528Z",
               "EditorCaption": ""
             }
           ]
